@@ -7,7 +7,7 @@ nav:
   - Home:
     - Overiew: index.md
     - FAQ: faq.md
-    - Changelog: chanelog.md
+    - Changelog: changelog.md
     - Contributing: contributing.md
   - Getting started:
     - Installing: gettingstarted/installing.md
