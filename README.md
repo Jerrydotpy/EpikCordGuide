@@ -14,4 +14,3 @@ There are many other libraries for the Discord API written in Python, there is n
 
 ## I want to contribute!
 We love contributions that help us, so feel free to! You won't be rewarded for this, but it helps us and we'd be very pleased with any contribution.
-See the [Contributing](./CONTRIBUTING.md) page for more information.
