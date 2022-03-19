@@ -1,0 +1,86 @@
+site_name: Epikcord.py
+site_description: An API Wrapper for Discord's API for Python
+repo_url: https://github.com/Epikcord/Epikcord.py
+edit_uri: blob/main/epikcord.py/
+
+nav:
+  - Home:
+    - Overiew: index.md
+    - FAQ: faq.md
+    - Changelog: chanelog.md
+    - Contributing: contributing.md
+  - Getting started:
+    - Installing: gettingstarted/installing.md
+    - Creating your first bot: gettingstarted/creatingbot.md
+    - Sections: gettingstarted/sections.md
+  - Guides:
+    - User commands: guides/usercommands.md
+    - Buttons: guides/buttons.md
+    - Message commands: guides/messagecommands.md
+    - Dropdowns: guides/dropdowns.md
+    - Slash commands: guides/slashcommands.md
+  - Api Reference:
+    - Reference: reference.md
+
+theme:
+  name: material
+  language: en
+  features:
+    - tabs
+    - instant
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - navigation.sections
+    - navigation.indexes
+    - content.code.annotate
+    - navigation.tabs    
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+  logo: src/epikcord.png
+  favicon: src/epikcord.ico
+  features:
+      - navigation.instant
+      - navigation.tabs
+      - navigation.top
+      - content.tabs.link
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.keys
+  - attr_list
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - pymdownx.betterem:
+      smart_enable: all
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Epikcord/Epikcord.py
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
+      handlers:
+        python:
+          rendering:
+            show_source: true
