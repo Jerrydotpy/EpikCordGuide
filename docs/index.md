@@ -10,7 +10,7 @@ Using this module, you can easily create Discord Bots with Python.
 ## Pages
 Here are a few pages to help you get started:
 
-- [Installing Epikcord.py](./gettingstarted/installation.md)
+- [Installing Epikcord.py](./gettingstarted/installing.md)
 - [Creating your first bot](./gettingstarted/creatingbot.md)
 
 ## Links

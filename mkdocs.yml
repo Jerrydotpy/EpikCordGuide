@@ -7,7 +7,6 @@ nav:
   - Home:
     - Overiew: index.md
     - FAQ: faq.md
-    - Changelog: changelog.md
     - Contributing: contributing.md
   - Getting started:
     - Installing: gettingstarted/installing.md
@@ -17,10 +16,7 @@ nav:
     - User commands: guides/usercommands.md
     - Buttons: guides/buttons.md
     - Message commands: guides/messagecommands.md
-    - Dropdowns: guides/dropdowns.md
     - Slash commands: guides/slashcommands.md
-  - Api Reference:
-    - Reference: reference.md
 
 theme:
   name: material
@@ -57,20 +53,26 @@ theme:
       - navigation.top
       - content.tabs.link
 markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed
+  - pymdownx.highlight:
+      linenums: true
   - pymdownx.keys
-  - attr_list
-  - abbr
-  - attr_list
-  - def_list
-  - footnotes
+  - pymdownx.snippets
+  - pymdownx.superfences
   - meta
-  - md_in_html
+  - attr_list
+  - admonition
+  - pymdownx.tabbed
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
   - pymdownx.betterem:
       smart_enable: all
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true
 extra:
   social:
     - icon: fontawesome/brands/github
