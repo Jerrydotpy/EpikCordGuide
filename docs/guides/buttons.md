@@ -1,5 +1,5 @@
 ---
-description: Learn how to create slash commands with EpikCord.py!
+description: Learn how to create buttons with EpikCord.py!
 authors: Epikcord.py
 ---
 
