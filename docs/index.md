@@ -7,13 +7,13 @@ description: This is a Epikcord.py guide to help you understand how to make bot 
 Epikcord.py is an API wrapper for the Discord API, which allows you to make Discord Bots. This is an unofficial guide to this Python Wrapper.
 Using this module, you can easily create Discord Bots with Python.
 
-## Pages
+## ::fontawesome-brands-file-lines: Pages
 Here are a few pages to help you get started:
 
 - [Installing Epikcord.py](./gettingstarted/installing.md)
 - [Creating your first bot](./gettingstarted/creatingbot.md)
 
-## Links
+## :fontawesome-brands-links: Links
 
 :fontawesome-brands-discord: [Discord Server](https://discord.com/invite/4R473R73kQ)
 

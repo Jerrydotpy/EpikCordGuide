@@ -3,7 +3,7 @@ description: Learn how to create buttons with EpikCord.py!
 authors: Epikcord.py
 ---
 
-# Buttons
+# :fontawesome-brands-stop: Buttons
 
 Buttons are interaction box that is under a message
 

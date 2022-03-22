@@ -3,7 +3,7 @@ description: Learn how to make a Discord bot using the EpikCord.py Library!
 authors: Epikcord.py
 ---
 
-# Creating your first bot
+# :fontawesome-brands-robot: Creating your first bot
 ## Creating the bot
 Just like how you needed to sign up to Discord to get started, we need to get your bot signed up too. To do this, 
 
@@ -47,7 +47,7 @@ Now, you have your bot's token copied to your clipboard.
 
 	Never push it to GitHub, or send it with the code. One way to prevent your token from getting leaked is to store it in `.env` files.
 
-### Storing the token in an ENV file
+### :fontawesome-brands-key: Storing the token in an ENV file
 Storing your bot Token in an ENV File will increase its security, and prevent it from getting leaked. 
 
 1. Create a file with the name `.env`. Just `.env`, with the dot/period at the start.
@@ -98,7 +98,7 @@ async def ready():
 client.login()
 ```
 
-## Message events
+## :fontawesome-brands-messages: Message events
 
 You must have message intents for this:
 

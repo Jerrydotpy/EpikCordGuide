@@ -4,7 +4,9 @@ authors: Epikcord.py
 ---
 
 
-# Message commands
+# :fontawesome-brands-message-code: Message commands
+
+Message commands are commands you can use a user. You right click the user and go to apps and use a message command on the user.
 ## Creating Message Commands
 
 Similar to user commands, but is a global user command

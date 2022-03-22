@@ -3,7 +3,7 @@ description: Learn how to create Slash Commands on your Discord Bot using the Ep
 authors: Epikcord.py
 ---
 
-# Slash Commands
+# :fontawesome-brands-slash: Slash Commands
 
 This page will show you how to use Slash Commands with EpikCord.py. 
 
