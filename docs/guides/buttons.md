@@ -1,5 +1,5 @@
 ---
-description: Learn how to create Slash Commands on your Discord Bot using the Pycord library!
+description: Learn how to create Slash Commands on your Discord Bot using the EpikCord.py library!
 authors: Epikcord.py
 ---
 
