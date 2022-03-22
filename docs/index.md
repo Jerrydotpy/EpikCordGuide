@@ -3,7 +3,7 @@ title: Home
 description: This is a Epikcord.py guide to help you understand how to make bot with Epikcord.py
 ---
 
-# Welcome to Pycord
+# Welcome to EpikCord
 Epikcord.py is an API wrapper for the Discord API, which allows you to make Discord Bots. This is an unofficial guide to this Python Wrapper.
 Using this module, you can easily create Discord Bots with Python.
 
