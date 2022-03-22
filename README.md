@@ -9,6 +9,8 @@ This is an guide for Epikcord.py!
 
 This is made with Mkdocs
 
+[![Docs](https://github.com/Jerrydotpy/EpikCordGuide/actions/workflows/docs.yml/badge.svg)](https://github.com/Jerrydotpy/EpikCordGuide/actions/workflows/docs.yml)
+
 ## Why EpikCord.py?
 There are many other libraries for the Discord API written in Python, there is no reason for you to choose us over other great libraries!
 
