@@ -1,5 +1,5 @@
 ---
-description: Learn how to make a Discord bot with Pycord using the Pycord Library!
+description: Learn how to make a Discord bot with EpikCord using the EpikCord.py Library!
 authors: Epikcord.py
 ---
 
