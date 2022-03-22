@@ -17,8 +17,6 @@ nav:
     - Buttons: guides/buttons.md
     - Message commands: guides/messagecommands.md
     - Slash commands: guides/slashcommands.md
-  - Others:
-    - Installing Git: others/git.md
 
 theme:
   name: material
