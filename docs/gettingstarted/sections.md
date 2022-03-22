@@ -5,7 +5,9 @@ authors: Epikcord.py
 
 # Sections
 
-!!! info
-    This is not supported yet in the library.
+A section is a like a cog in discord.py, it is a part of the bot split up. You would use this for commands and events. An example would be fun.py, where you put fun commands in it. 
 
-    This page will not be written until the library supports cogs
+!!! info
+    This is supported but is unstable
+
+    This page will not be written until the library has a stable version of sections
