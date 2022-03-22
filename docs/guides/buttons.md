@@ -5,6 +5,11 @@ authors: Epikcord.py
 
 # Buttons
 
+Buttons are interaction box that is under a message
+
+![image](https://user-images.githubusercontent.com/96548672/159582091-82c5bad0-2e23-4cd7-b4b8-b398e27873ab.png)
+
+
 ## Creating a simple button
 
 !!! warning
