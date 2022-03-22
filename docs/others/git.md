@@ -1,6 +1,6 @@
 ---
 title: Installing Git
-description: How to install GIT - Pycord Guide
+description: How to install GIT
 ---
 
 # :fontawesome-brands-git: Git
