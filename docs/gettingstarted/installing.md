@@ -7,13 +7,13 @@ authors: Epikcord.py
 
 ## Stable Version
 
-### Windows
+### :fontawesome-brands-windows: Windows
 
 ```python
 py -3 -m pip install -U Epikcord.py
 ```
 
-### MacOS/Linux
+### :fontawesome-brands-apple: :fontawesome-brands-linux: MacOS/Linux
 
 ```python
 # Linux/macOS
@@ -59,4 +59,4 @@ Next, you need to insert the following into the file.
 
 	[packager]
 	ignoredPackages=["discord.py", "discord"]
-	```
+```
