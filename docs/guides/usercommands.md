@@ -1,9 +1,9 @@
 ---
-description: Learn how create User Commands with Epikcord.py!
+description: Learn how create Context Menu Commands with Epikcord.py!
 authors: Epikcord.py
 ---
 
-# :fontawesome-brands-user-gear: User Commands
+# Context Menu Commands
 
 
 ## What are User Commands and Message Commands?

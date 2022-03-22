@@ -1,7 +1,4 @@
 <!-- Sourced from Rapptz/ discord.py -->
-
-# :fontawesome-brands-handshake-angle: Contributing 
-
 ## Contributing to EpikCord.py
 
 First off, thanks for taking the time to contribute. It makes the library substantially better.
@@ -9,7 +6,7 @@ First off, thanks for taking the time to contribute. It makes the library substa
 !!! info
     The following is a set of guidelines for contributing to the repository. These are guidelines, not hard rules.
 
-## :fontawesome-brands-handshake-bug: Good Bug Reports
+## Good Bug Reports
 
 Please be aware of the following things when filing bug reports.
 
@@ -24,11 +21,11 @@ Please be aware of the following things when filing bug reports.
 
 If the bug report is missing this information then it'll take us longer to fix the issue. We will probably ask for clarification, and barring that if no response was given then the issue will be closed.
 
-## :fontawesome-brands-pull-request: Submitting a Pull Request
+## Submitting a Pull Request
 
 Submitting a pull request is fairly simple, just make sure it focuses on a single aspect and doesn't manage to have scope creep and it's probably good to go. It would be incredibly lovely if the style is consistent to that found in the project. This project follows PEP-8 guidelines (mostly) with a column limit of 125.
 
-### :fontawesome-brands-code-commit: Git Commit Guidelines
+### Git Commit Guidelines
 
 - Use present tense (e.g. "Add feature" not "Added feature")
 - Limit all lines to 72 characters or less.
@@ -38,7 +35,7 @@ Submitting a pull request is fairly simple, just make sure it focuses on a singl
 
 If you do not meet any of these guidelines, don't fret. Chances are they will be fixed upon rebasing but please do try to meet them to remove some of the workload.
 
-### :fontawesome-brands-book: Git Commit Rules
+### Git Commit Rules
 
 - Don't commit anything that is not related to the project.
 - Don't commit anything that you do not have the rights of. If you don't have the rights to something, but still commit it, we will remove it.

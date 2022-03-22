@@ -3,24 +3,24 @@ description: Learn how to install Epikcord.py!
 authors: Epikcord.py
 ---
 
-# :fontawesome-brands-download: Installing
+# Installing
 
 ## Stable Version
 
-### :fontawesome-brands-windows: Windows
+### Windows
 
 ```python
 py -3 -m pip install -U Epikcord.py
 ```
 
-### :fontawesome-brands-apple: :fontawesome-brands-linux: MacOS/Linux
+### MacOS/Linux
 
 ```python
 # Linux/macOS
 python3 -m pip install -U "Epikcord.py"
 ```
 
-## :fontawesome-brands-truck-moving: Migrating
+## Migrating
 
 In case you are migrating from another module, say, discord.py,
 ```python
@@ -34,7 +34,7 @@ Next, install Epikcord.py.
 python -m pip install epikcord.py
 ```
 
-## :fontawesome-brands-code: Development Version
+## Development Version
 
 !!! warning
     This is not a stable version, things will work not expectedly as you thought
@@ -43,7 +43,7 @@ python -m pip install epikcord.py
 python -m pip install -U git+https://github.com/Epikcord/Epikcord.py
 ```
 
-## :fontawesome-brands-galaxy: Repl.it
+## Repl.it
 
 !!! warning
     Repl.it is not a good IDE. Its online, its free, but you should definitely not use it to host your bot, its not made for that purpose. Your bot will get slower as it gets bigger, and certain files might be deleted.
