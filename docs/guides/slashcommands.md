@@ -5,7 +5,7 @@ authors: Epikcord.py
 
 # Slash Commands
 
-This page will show you how to use Slash Commands with Pycord. 
+This page will show you how to use Slash Commands with EpikCord.py. 
 
 !!! important
 	To create commands in a guild, your app must be authorized with the `applications.commands` scope. In order to make commands work within a guild, the guild must authorize your application with the `applications.commands` scope. The `bot` scope is not enough.
