@@ -26,20 +26,6 @@ python3 -m pip install -U "Epikcord.py"
 pip install Epikcord.py --upgrade
 ```
 
-## Migrating
-
-In case you are migrating from another module, say, discord.py,
-```python
-python -m pip uninstall discord.py -y
-```
-
-Next, install Epikcord.py.
-
-
-```python
-python -m pip install epikcord.py
-```
-
 ## Development Version
 
 !!! warning
